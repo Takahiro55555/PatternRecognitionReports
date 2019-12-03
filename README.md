@@ -7,6 +7,8 @@
 ```
 $ pipenv shell
 $ pipenv install
+$
+$ #QRコードを生成し、解析する
 $ python task05.py --generate
 ```
 
@@ -21,6 +23,7 @@ or
 
 ```
 $ pipenv shell
+$
 $ #以下のように、リサイズ後の画像のサイズを指定できます。
 $ python task05.py 16
 ```
