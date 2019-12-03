@@ -9,8 +9,8 @@ verify_ssl = true
 numpy = "*"
 scipy = "*"
 matplotlib = "*"
-google = "*"
-google-colab = "*"
+qrcode = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.7"
